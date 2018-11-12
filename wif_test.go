@@ -7,9 +7,9 @@ package btcutil_test
 import (
 	"testing"
 
-	"github.com/btcsuite/btcd/btcec"
-	"github.com/btcsuite/btcd/chaincfg"
-	. "github.com/btcsuite/btcutil"
+	"github.com/wificoin-project/wfcd/btcec"
+	"github.com/wificoin-project/wfcd/chaincfg"
+	. "github.com/wificoin-project/wfcutil"
 )
 
 func TestEncodeDecodeWIF(t *testing.T) {
