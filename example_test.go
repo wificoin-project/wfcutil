@@ -1,4 +1,4 @@
-package btcutil_test
+package wfcutil_test
 
 import (
 	"fmt"

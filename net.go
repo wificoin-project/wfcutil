@@ -4,7 +4,7 @@
 
 // +build !appengine
 
-package btcutil
+package wfcutil
 
 import (
 	"net"
